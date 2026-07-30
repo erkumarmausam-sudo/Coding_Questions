@@ -95,7 +95,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 
 ## 👨‍💻 Author
 
-**Mausam Kumar**
+<h1><b>**Mausam Kumar**</b></h1>
 
 - 💻 B.Tech CSE Student
 - 🚀 Passionate about DSA, Web Development, and AI/ML
