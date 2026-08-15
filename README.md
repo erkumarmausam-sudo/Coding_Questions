@@ -105,3 +105,15 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 ---
 
 ### Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0050-powx-n) |
+<!---LeetCode Topics End-->
