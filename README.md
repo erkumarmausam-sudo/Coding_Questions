@@ -1,4 +1,4 @@
-# 🚀 Coding_Question
+#  Coding_Question
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue.svg" />
