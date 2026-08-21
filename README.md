@@ -27,7 +27,7 @@ The repository is updated regularly as I solve new problems.
 
 ---
 
-## 📚 Topics Covered
+##  Topics Covered
 
 - Arrays
 - Strings
