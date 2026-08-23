@@ -138,9 +138,18 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
