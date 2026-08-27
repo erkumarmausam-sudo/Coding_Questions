@@ -127,6 +127,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -140,6 +141,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | ------- |
 | [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -148,8 +150,14 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
