@@ -111,6 +111,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
