@@ -146,6 +146,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | [0020-valid-parentheses](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +174,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Hash Table
+|  |
+| ------- |
+| [3146-permutation-difference-between-two-strings](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3146-permutation-difference-between-two-strings) |
 <!---LeetCode Topics End-->
