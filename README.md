@@ -120,6 +120,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | [2469-convert-the-temperature](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2652-sum-multiples) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +150,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -163,4 +165,12 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0678-valid-parenthesis-string) |
+## Array
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
