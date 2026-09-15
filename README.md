@@ -117,6 +117,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | [0412-fizz-buzz](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2652-sum-multiples) |
@@ -182,5 +183,6 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
