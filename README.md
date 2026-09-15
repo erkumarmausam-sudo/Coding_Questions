@@ -122,6 +122,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | [2520-count-the-digits-that-divide-a-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3516-find-closest-person) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -173,6 +174,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
