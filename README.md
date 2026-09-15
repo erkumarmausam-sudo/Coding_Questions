@@ -121,6 +121,7 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 | [2520-count-the-digits-that-divide-a-number](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -178,4 +179,8 @@ If you find this repository useful, consider giving it a ⭐ on GitHub. It motiv
 |  |
 | ------- |
 | [3146-permutation-difference-between-two-strings](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3146-permutation-difference-between-two-strings) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/erkumarmausam-sudo/Coding_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
